@@ -1,0 +1,3 @@
+/home/joker/Documents/Github/cpp_projects/day_01_02/cmake-build-debug/CMakeFiles/demo.dir
+/home/joker/Documents/Github/cpp_projects/day_01_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joker/Documents/Github/cpp_projects/day_01_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
